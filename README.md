@@ -10,3 +10,5 @@ In this we will be having a start from the bottom of coding..
 ## Topics 
 
 * Arrays
+
+Note: https://practice.geeksforgeeks.org/home/
