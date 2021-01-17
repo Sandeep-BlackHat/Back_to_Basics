@@ -39,7 +39,9 @@ Output:
 
  Compiler Error: incompatible types when assigning to 
               type 'int[2]' from type 'int *' 
+              
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Although array and pointer are different things, following properties of array make them look similar. 
 
 Array name gives address of first element of array.
@@ -56,3 +58,29 @@ int main()
     cout << "Value of first element is " << *ptr;
     return 0;
 }
+
+Output
+Value of first element is 10
+
+Array members are accessed using pointer arithmetic. 
+
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+    int arr[] = { 10, 20, 30, 40, 50, 60 };
+    int* ptr = arr;
+    cout << "arr[2] = " << arr[2] << "\n";
+    cout << "*(arr + 2) = " << *(arr + 2) << "\n";
+    cout << "ptr[2] = " << ptr[2] << "\n";
+    cout << "*(ptr + 2) = " << *(ptr + 2) << "\n";
+    return 0;
+}
+
+Output
+arr[2] = 30
+*(arr + 2) = 30
+ptr[2] = 30
+*(ptr + 2) = 30
+
