@@ -40,6 +40,7 @@ The new created array is : 1 2 3
 The appended array is : 1 2 3 4 
 The array after insertion is : 1 2 5 3 4 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   
 # Python code to demonstrate the working of 
 # pop() and remove() 
