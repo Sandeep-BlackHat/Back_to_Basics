@@ -34,3 +34,8 @@ print ("The array after insertion is : ", end="")
 for i in range (0, 5):
     print (arr[i], end=" ")
     
+Output: 
+
+The new created array is : 1 2 3 
+The appended array is : 1 2 3 4 
+The array after insertion is : 1 2 5 3 4 
