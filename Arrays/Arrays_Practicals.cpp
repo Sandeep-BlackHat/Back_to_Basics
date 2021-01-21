@@ -1,4 +1,4 @@
-# Given an integer array arr of size n, you need to sum the elements of arr.
+//Given an integer array arr of size n, you need to sum the elements of arr.//
 
 Example 1:
 
@@ -14,7 +14,7 @@ n = 4
 arr[] = {1 2 3 4}
 Output: 10
 
-**Answer**
+//Answer//
 
 #include <bits/stdc++.h>
 using namespace std;
