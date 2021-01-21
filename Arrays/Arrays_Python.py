@@ -115,3 +115,9 @@ arr.reverse()
 print ("The array after reversing is : ",end="")
 for i in range (0,6):
     print (arr[i],end=" ")  
+
+Output: 
+
+The new created array is : 1 2 3 1 2 5 
+The index of 1st occurrence of 2 is : 1
+The array after reversing is : 5 2 1 3 2 1    
