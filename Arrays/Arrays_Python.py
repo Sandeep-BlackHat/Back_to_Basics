@@ -76,3 +76,10 @@ arr.remove(1)
 print ("The array after removing is : ",end="") 
 for i in range (0,3): 
     print (arr[i],end=" ")  
+
+Output: 
+
+The new created array is : 1 2 3 1 5 
+The popped element is : 3
+The array after popping is : 1 2 1 5 
+The array after removing is : 2 1 5 
