@@ -3,7 +3,7 @@ In this we will be having a start from the bottom of coding..
 
 ## Prefered languages:
 
-1. C++
+<img src= 'https://img.shields.io/badge/C++-ByDefault-%3CCOLOR%3E.svg' />
 2. C
 3. Python
 
