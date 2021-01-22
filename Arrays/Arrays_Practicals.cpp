@@ -58,8 +58,6 @@ int main()
     int arr[5];
     arr[0] = 5;
     arr[2] = -10;
- 
-    // this is same as arr[1] = 2
     arr[3 / 2] = 2;
     arr[3] = arr[0];
  
@@ -103,11 +101,9 @@ int main()
  
 int main()
 {
-    // Initialize 2D array
     char colour[4][10] = { "Blue", "Red", "Orange",
                            "Yellow" };
  
-    // Printing Strings stored in 2D array
     for (int i = 0; i < 4; i++)
         std::cout << colour[i] << "\n";
  
@@ -121,11 +117,9 @@ int main()
  
 int main()
 {
-    // Initialize String Array
     std::string colour[4] = { "Blue", "Red",
                               "Orange", "Yellow" };
  
-    // Print Strings
     for (int i = 0; i < 4; i++)
         std::cout << colour[i] << "\n";
 }
@@ -142,8 +136,6 @@ int main()
     std::vector<std::string> colour {"Blue", "Red", "Orange"};
  
     colour.push_back("Yellow");
- 
-    // Print Strings stored in Vector
     for (int i = 0; i < colour.size(); i++)
         std::cout << colour[i] << "\n";
 }
