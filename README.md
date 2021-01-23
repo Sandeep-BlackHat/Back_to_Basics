@@ -7,7 +7,14 @@ In this we will be having a start from the bottom of coding..
 
 ## Topics 
 
-* Arrays
-* More to be added
+* ARRAYS
+* LINKED LISTS
+* STRINGS
+* STACK
+* QUEUE
+* BINARY TREE
+* BINARY SEARCH TREE
+* HEAP
+* HASHING
 
 Note: https://practice.geeksforgeeks.org/home/
