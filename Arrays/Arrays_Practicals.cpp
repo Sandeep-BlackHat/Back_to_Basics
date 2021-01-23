@@ -1,5 +1,5 @@
 //Given an integer array arr of size n, you need to sum the elements of arr.//
-
+//EDITED
 Example 1:
 
 Input:
