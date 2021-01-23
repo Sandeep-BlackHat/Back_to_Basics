@@ -12,8 +12,16 @@ In this we will be having a start from the bottom of coding..
 * STRINGS
 * STACK
 * QUEUE
-* BINARY TREE
-* BINARY SEARCH TREE
+* SORTING
+ * SORTING ALGO
+ * SORTING PROGRAM
+* SEARCHING
+ * SEARCHING ALGO
+ * SEARCHING PROGRAM
+* TREE
+  * BINARY TREE
+  * BINARY SEARCH TREE
+  * More Tree
 * HEAP
 * HASHING
 
