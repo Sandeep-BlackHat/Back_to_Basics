@@ -4,6 +4,8 @@ In this we will be having a start from the bottom of coding..
 ## Prefered languages:
 
 <img src= 'https://img.shields.io/badge/C++-v17.0-%3CCOLOR%3E.svg' />  <img src= 'https://img.shields.io/badge/C-v11.0-%3CCOLOR%3E.svg' />  <img src= 'https://img.shields.io/badge/Python-v3.9-%3CCOLOR%3E.svg' />   <img src= 'https://img.shields.io/badge/java-v11.0.8-%3CCOLOR%3E.svg' />
+ <img src= 'https://img.shields.io/badge/rust-v2.1-%3CCOLOR%3E.svg' />
+
 
 ## Topics 
 
