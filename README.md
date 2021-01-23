@@ -13,11 +13,11 @@ In this we will be having a start from the bottom of coding..
 * STACK
 * QUEUE
 * SORTING
- * SORTING ALGO
- * SORTING PROGRAM
+  * SORTING ALGO
+  * SORTING PROGRAM
 * SEARCHING
- * SEARCHING ALGO
- * SEARCHING PROGRAM
+  * SEARCHING ALGO
+  * SEARCHING PROGRAM
 * TREE
   * BINARY TREE
   * BINARY SEARCH TREE
@@ -25,4 +25,5 @@ In this we will be having a start from the bottom of coding..
 * HEAP
 * HASHING
 
-Note: https://practice.geeksforgeeks.org/home/
+Note: * https://practice.geeksforgeeks.org/home/
+      * https://www.w3schools.com/
