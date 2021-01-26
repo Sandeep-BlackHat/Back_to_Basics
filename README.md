@@ -26,5 +26,6 @@ In this we will be having a start from the bottom of coding..
 * HEAP
 * HASHING
 
-Note: * https://practice.geeksforgeeks.org/home/
-      * https://www.w3schools.com/
+Note: 
+* https://practice.geeksforgeeks.org/home/
+* https://www.w3schools.com/
