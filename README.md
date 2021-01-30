@@ -8,7 +8,7 @@ In this we will be having a start from the bottom of coding..
 
 ## Topics 
 
-* ARRAYS
+* ARRAYS - [x]
 * LINKED LISTS
 * STRINGS
 * STACK
