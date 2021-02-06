@@ -8,7 +8,7 @@ In this we will be having a start from the bottom of coding..
 
 ## Topics 
 
-* - [x] <p href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays">ARRAYS</p>
+* - [x] <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays">ARRAYS</a>
 * LINKED LISTS
 * STRINGS
 * STACK
