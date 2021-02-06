@@ -7,8 +7,16 @@ In this we will be having a start from the bottom of coding..
 
 
 ## Topics 
-
-* - [x] <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays">ARRAYS</a>
+* <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays">ARRAYS</a>
+│
+|__Array Rotation
+|__Shubham Arrays     
+|__Sahil 
+|__Sandeep
+|__Hiranmayee
+  |__More Programs
+     
+* - [x] 
 * LINKED LISTS
 * STRINGS
 * STACK
