@@ -20,5 +20,10 @@
       <td>O(n)</td>
       <td>O(1)</td>
     </tr>
+    <tr>
+      <td>Shortest Distance to a Character</td>
+      <td>O(n)</td>
+      <td>O(n)</td>
+    </tr>
   </table>
 
