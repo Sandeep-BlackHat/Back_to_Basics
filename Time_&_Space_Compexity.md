@@ -45,5 +45,10 @@
       <td>O(n Log n)</td>
       <td>O(n)</td>
     </tr>
+   <tr>
+      <td>Quick Sort</td>
+      <td>O(n^2) {Best case -> O(n*logn)</td>
+      <td>O(n*logn)</td>
+    </tr>
   </table>
 
