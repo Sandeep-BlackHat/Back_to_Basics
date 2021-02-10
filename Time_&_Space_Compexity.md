@@ -25,5 +25,25 @@
       <td>O(n)</td>
       <td>O(n)</td>
     </tr>
+    <tr>
+      <td>Selection Sort</td>
+      <td>O(n^2)</td>
+      <td>O(1)</td>
+    </tr>
+    <tr>
+      <td>Bubble Sort</td>
+      <td>O(n^2) {Best Case -> O(n)}</td>
+      <td>O(1)</td>
+    </tr>
+    <tr>
+      <td>Insertion Sort</td>
+      <td>O(n^2) {Best Case -> O(n)}</td>
+      <td>O(1)</td>
+    </tr>
+    <tr>
+      <td>Merge Sort</td>
+      <td>O(n Log n)</td>
+      <td>O(n)</td>
+    </tr>
   </table>
 
