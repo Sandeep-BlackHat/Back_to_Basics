@@ -9,14 +9,11 @@ In this we will be having a start from the bottom of coding..
 ## Topics 
 
 * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays">ARRAYS</a>
-```
-│
-|__Array Rotation
-|__Shubham Arrays     
-|__Sahil 
-|__Sandeep
-|__Hiranmayee
-  |__More Programs
+  * Shubham Arrays     
+  * Sahil 
+  * Sandeep
+  * Hiranmayee
+  * More Programs
      
 * - [x] 
 * LINKED LISTS
@@ -35,24 +32,6 @@ In this we will be having a start from the bottom of coding..
   * More Tree
 * HEAP
 * HASHING
-
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
-```
 
 Note: 
 * https://practice.geeksforgeeks.org/home/
