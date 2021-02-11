@@ -35,8 +35,26 @@ In this we will be having a start from the bottom of coding..
 * STACK
 * QUEUE
 * SORTING
-  * SORTING ALGO
-  * SORTING PROGRAM
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Sorting%20Technique/Jupyter%20Notebook">Jupyter Notebook</a>
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Sorting%20Technique/Python">Python</a>
+    * 01 Array_sort.py
+    * 02 List_sort.py
+    * 03 Selection_Sort.py
+    * 04 Bubble_Sort.py
+    * 05 Bubble_Sort_Optz.py
+    * 06 Recursive_Bubble_Sort.py
+    * 07 Merge_Sort.py
+    * 08 Merge_Sort_Iterative.py
+    * 09 Quick_Iterative_Sort.cpp
+  <C++>  
+  * 01 Selection_Sort.cpp
+  * 02 Bubble_Sort.cpp
+  * 03 Bubble_Sort_Optz.cpp
+  * 04 Recursive_Bubble_sort.cpp
+  * 05 Merge_Sort.cpp
+  * 06 Merge_Sort_Interative.cpp
+  * 07 Quick_Recursive_Sort.cpp
+  * 08 Quick Sort.cpp
 * SEARCHING
   * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Searching/Binary%20Search">Binary Search</a>
     * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Searching/Binary%20Search/BS_Functions_C%2B%2B_STL">BS_Functions_C++_STL</a>
