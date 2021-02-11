@@ -38,8 +38,14 @@ In this we will be having a start from the bottom of coding..
   * SORTING ALGO
   * SORTING PROGRAM
 * SEARCHING
-  * SEARCHING ALGO
-  * SEARCHING PROGRAM
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Searching/Binary%20Search">Binary Search</a>
+    * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Searching/Binary%20Search/BS_Functions_C%2B%2B_STL">BS_Functions_C++_STL</a>
+    * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Searching/Binary%20Search/Competitive%20Programming">Competitive Programming</a>
+    * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Searching/Binary%20Search/Python">Python</a>
+    * Recursive Binary Search 2.cpp
+    * Recursive Binary Search.cpp
+    * Unsorted Binary Search.cpp
+  * Linear search.cpp
 * TREE
   * BINARY TREE
   * BINARY SEARCH TREE
