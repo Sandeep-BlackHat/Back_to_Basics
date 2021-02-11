@@ -9,13 +9,27 @@ In this we will be having a start from the bottom of coding..
 ## Topics 
 
 * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays">ARRAYS</a>
-  * Shubham Arrays     
-  * Sahil 
-  * Sandeep
-  * Hiranmayee
-  * More Programs
-     
-* - [x] 
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays/Mayank%20Arrays">Shubham Arrays</a>     
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays/Sahil">Sahil</a> 
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays/Sandeep">Sandeep</a>
+  * <a href = "https://github.com/Sandeep-BlackHat/Back_to_Basics/tree/main/Arrays/hiranmayee">Hiranmayee</a>
+  * More array programs in folder!
+  * 01 Read and Display the elements using an array.CPP
+  * 02 Mean of n numbers using an array.CPP
+  * 03 Print the position of the smallest number of n numbers in an array.cpp
+  * 04 Find the second largest of n numbers.cpp
+  * 05 Program to enter n no. of digits. Then form a no. using these digits..cpp
+  * 06 Array_sum.cpp
+  * 07 Array_Sum_2D.cpp
+  * 08 Repeating numbers.cpp
+  * 09 Append, Insert and Display elements of an Array.cpp
+  * 10 Moving all negative numbers to one side.cpp
+  * 11 Wave Array.cpp
+  * 12 Merge_arrays.cpp
+  * 13 Find Largest sum contiguous Subarray [Kadane's Algo].cpp
+  * 14 array_rotation_method1.cpp
+  * Diff_array_vs_Pointer.cpp
+
 * LINKED LISTS
 * STRINGS
 * STACK
