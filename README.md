@@ -45,7 +45,7 @@ In this we will be having a start from the bottom of coding..
     * 06 Recursive_Bubble_Sort.py
     * 07 Merge_Sort.py
     * 08 Merge_Sort_Iterative.py
-    * 09 Quick_Iterative_Sort.cpp
+    * 09 Quick_Iterative_Sort.py
   <br>  
   
   * 01 Selection_Sort.cpp
