@@ -6,8 +6,8 @@ int main()
 	int i,word=1;
 	for (i=0;A[i]!='\0';i++)
 	{
-		if (A[i]==' '&& A[i-1]!=' ')  // if whitespace encounter in string it will count word // 2nd cond if more then one whitespace btw 2 conseqitive word it will eliminate
-		word++;
+		if (A[i]==' '&& A[i-1]!=' ')  // if whitespace encounter in string it will count word
+		word++; 		      // 2nd cond if more then one whitespace btw 2 conseqitive word it will eliminate
 	}
 	cout<<"Total word is "<<word;
 	return 0;

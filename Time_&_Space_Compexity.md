@@ -50,5 +50,10 @@
       <td>O(n^2) {Best case -> O(n*logn)</td>
       <td>O(n*logn)</td>
     </tr>
+    <tr>
+      <td>Quick Sort</td>
+      <td>O(n Log n) {Heapify Func -> O(logn)}</td>
+      <td>O(1)</td>
+    </tr>
   </table>
 
