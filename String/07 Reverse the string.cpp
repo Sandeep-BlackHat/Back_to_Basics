@@ -12,7 +12,7 @@ int main ()
 	i=i-1;
 	for (int j=0;i>=0;i--,j++)
 	{
-		B[j]=A[i];
+		B[j]=A[i]; //the i string is traversed frpm end -> start, and j is traversed from start -> end!
 	}
 	B[i]='\0';
 	cout<<"Reverse of the string is "<<endl<<B;
