@@ -55,5 +55,9 @@
       <td>O(n Log n) {Heapify Func -> O(logn)}</td>
       <td>O(1)</td>
     </tr>
+   <td>Deleting a node in LL</td>
+      <td>O(n)</td>
+      <td>O(1)</td>
+    </tr>
   </table>
 
