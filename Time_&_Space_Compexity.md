@@ -59,5 +59,9 @@
       <td>O(n)</td>
       <td>O(1)</td>
     </tr>
+    <td>Minimum Remove to Make Valid Parentheses</td>
+      <td>O(n)</td>
+      <td>O(n)</td>
+    </tr>
   </table>
 
