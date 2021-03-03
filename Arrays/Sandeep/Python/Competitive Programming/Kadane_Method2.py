@@ -1,5 +1,5 @@
 #Optimized DP Probelm
-
+#if we compare max_so_far with max_ending_here only if max_ending_here is greater than 0. 
 #Function
 def maxSubArraySum(a, size):
     max_so_far = 0
