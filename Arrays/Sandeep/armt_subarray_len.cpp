@@ -18,7 +18,7 @@ int main()
 
     while(j<n)
     {
-        if((a[j] - a[j-1]) == pd){
+        if(pd == a[j] - a[j-1]){
             curr++;
         }
         else{
