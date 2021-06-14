@@ -1,20 +1,20 @@
 #include<iostream>
 using namespace std;
 
-void fib(int a){
-    int t1 = 0;
-    int t2 = 1;
-    for(int i=1; i<=a; i++){
-        cout<<t1<<" ";
-        int next_term = t1 + t2;
-        t1 = t2;
-        t2 = next_term;
+int fib(int n)
+{
+    if(n == 0 || n == 1){
+        return n;
     }
+    return fib(n - 1) + fib(n - 2);
 }
 
-int main(){
-    int n;
-    cin>>n;
+int main()
+{
+    int x;
+    cin>>x;
 
-    fib(n);
+    cout<<fib(x)<<endl;
+
+    return 0;
 }
