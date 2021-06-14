@@ -1,27 +1,26 @@
-//Replace pi with 3.14
+//Sub-Sequence
+//Print all sub seq present in an Array with Ascii Code
+
+
 #include<iostream>
 using namespace std;
 
-void replacepi(string s){
+int subsq(string s, string ans){
     if(s.length() == 0){
-        return;
+        cout<<ans<<endl;
+        return 0;
     }
 
-    if(s[0] == 'p' || s[1] == 'i'){
-        cout<<"3.14";
-        replacepi(s.substr(2));
-    }
-    else{
-        cout<<s[0];
-        replacepi(s.substr(1));
-    }
+    char ch = s[0];
+    int code = ch;
+    string ros = s.substr(1);
+    subsq(ros, ans);
+    subsq(ros, ans+ch);
+    subsq(ros, ans + to_string(code));
 }
 
 int main()
-{
-    string x;
-    getline(cin, x);
-
-    replacepi(x);
+{   
+    subsq("AB","");
     return 0;
 }

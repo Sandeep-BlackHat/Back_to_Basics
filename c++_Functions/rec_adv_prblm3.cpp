@@ -1,21 +1,27 @@
-//Tower of Hanoi
-
 #include<iostream>
 using namespace std;
 
-void toh(int n, char src, char dest, char helper){
+string keypad[] = {"", ".","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
 
-    if(n == 0){
+void phone(string s, string ans){
+
+    if(s.length() == 0)
+    {
+        cout<<ans<<endl;
         return;
     }
 
-    toh(n-1, src, helper, dest);
-    cout<<"Move from "<<src<<" to "<<dest<<endl;
-    toh(n-1, helper, dest, src);
+    char ch = s[0];
+    string sh = keypad[ch - '0'];
+    string ros = s.substr(1);
+
+    for(int i=0; i<sh.length(); i++){
+        phone(ros, ans + sh[i]);
+    }
 }
 
 int main()
 {
-    toh(3, 'A', 'C', 'B');
+    phone("23", "");
     return 0;
 }
